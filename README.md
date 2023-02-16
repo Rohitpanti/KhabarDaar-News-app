@@ -1,3 +1,66 @@
+
+# KhabarDaar-News App
+
+This is News web app built using Bootstrap and ReactJS and fetch the data from external API.
+
+
+## Tech Stack
+
+**ReactJS & BootStarp** 
+
+
+
+## API Reference
+
+#### Get all items
+
+ Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `REACT_APP_NEWS_API` | `string` | *Required*. Your API key |
+
+
+## Run On Your Device
+
+Clone the project
+
+bash
+  git clone git@github.com:Rohitpanti/KhabarDaar-News-app.git
+
+
+Install dependencies
+
+bash
+  npm install
+
+
+Start the server
+
+bash
+  npm run start
+
+
+
+
+## Screenshot
+
+![header image](https://raw.github.com/Rohitpanti/KhabarDaar-News-app/master/View1.png)
+![header image](https://raw.github.com/Rohitpanti/KhabarDaar-News-app/master/View2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
